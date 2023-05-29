@@ -1,5 +1,5 @@
 # File-Synchronization
-File synchronization python task for Veeam test
+
 
 Run the file using cli to specify file paths, and the interval at which the script will run:
 
